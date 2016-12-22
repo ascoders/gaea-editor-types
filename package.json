@@ -1,0 +1,17 @@
+{
+  "name": "@types/gaea-editor",
+  "version": "0.0.0",
+  "description": "TypeScript definitions for gaea-editor",
+  "license": "MIT",
+  "author": "ascoders",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/react": "^0.14.55"
+  },
+  "peerDependencies": {}
+}
